@@ -1,3 +1,6 @@
+<img width="1727" height="910" alt="ChatGPT Image 2026年7月13日 11_37_50" src="https://github.com/user-attachments/assets/834a8b42-641f-4bcf-b824-7e77f8ae4b43" />
+
+
 # OpenEUV — Open Source Extreme Ultraviolet (EUV) Lithography System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
